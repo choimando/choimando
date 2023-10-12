@@ -15,5 +15,6 @@
 </div>
 <br>
 <div><h2>⌨ PROJECT</h2></div>
-<a href="https://github.com/choimando/How-s-this-room.git">이방어때</a>
+●<a href="https://github.com/choimando/How-s-this-room.git">이방어때</a> <br>
+●<a href="https://github.com/choimando/Travel-recommendations.git">전국여행자랑</a>
 
